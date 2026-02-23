@@ -1,80 +1,16 @@
 {
   "version": 1,
-  "base_track": "ハナタバ",
-  "base_artist": "MIMI & 可不",
-  "createdAt": "2025-12-22T06:48:11.538087Z",
+  "base_track": "ハナタバ（feat. 可不）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-23T22:22:01.577585Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI",
-      "has_synced": true,
-      "path": "select/01_ハナタバ_MIMI.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI/可不",
-      "has_synced": true,
-      "path": "select/02_ハナタバ_MIMI_可不.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI feat. 可不",
-      "has_synced": true,
-      "path": "select/03_ハナタバ_MIMI_feat._可不.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI",
-      "has_synced": true,
-      "path": "select/04_ハナタバ_MIMI.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI feat. KAFU",
-      "has_synced": true,
-      "path": "select/05_ハナタバ_MIMI_feat._KAFU.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "ハナタバ - Hanataba (feat. KAFU)",
-      "artist": "MIMI",
-      "has_synced": true,
-      "path": "select/06_ハナタバ_-_Hanataba_(feat._KAFU)_MIMI.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI， KAFU",
-      "has_synced": true,
-      "path": "select/07_ハナタバ_MIMI,_KAFU.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "ハナタバ",
-      "artist": "MIMI, KAFU",
-      "has_synced": true,
-      "path": "select/08_ハナタバ_MIMI,_KAFU.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ハナタバ",
-      "artist": "MIMI & 可不",
+      "artist": "MIMI",
       "has_synced": false,
-      "path": "select/pl_01_ハナタバ_MIMI_&_可不.txt"
+      "path": "select/pl_01_ハナタバ_MIMI.txt"
     }
   ]
 }
